@@ -4,7 +4,6 @@ The material found here and within this repository should be considered a work i
 than those of the Toledo Technology Academy Highschool VEX Robotics team, or other authorized individuals. 
 There will be files and documents continuously addded and updated to this repository that contain sample programs (created to demonstrate 
 or test certian features of physical or code-based performance) as well as multiple versions of in-progress competition programs. 
-Please do not submit an issue for programs you encounter with errors in them, we know that they are present. 
 
 
 If your interested to learn more about Team 2894A, check out our website at
